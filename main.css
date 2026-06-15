@@ -1,0 +1,30 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+body {
+     
+    background:  linear-gradient(179.55deg, #000000 -26.31%, #003C29 -26.31%, #003222 -26.31%, #00D18E 132.41%, #007B54 140.67%);
+
+  }
+  
+.title h1{
+    color: #f1f8fb;
+    text-align: center;
+    padding: 32px;
+}
+.nombre-pokemon{
+    color:#122AA3;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.contenedor {
+    margin-right: 16px;
+    margin-left: 16px;
+  }
+.card{
+    border-radius: 16px !important;
+}
+   
